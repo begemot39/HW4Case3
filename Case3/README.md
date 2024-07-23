@@ -2,4 +2,4 @@
 Я учусь в Нетологии.<br>
 Своё фото размещать не хочу, но вот неплохая замена: <br>
 
-https://disk.yandex.ru/i/QA4bqlD_wm8CfQ
+<image src="https://disk.yandex.ru/i/QA4bqlD_wm8CfQ" alt="Робаут Жиллиман">
